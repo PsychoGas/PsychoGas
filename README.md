@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @PsychoGas
-- 👀 I’m interested in full-stack web dev
+- 👀 I’m interested in full-stack dev
 - 🌱 I’m currently learning next.js
 - 💞️ I’m looking to collaborate on anything cool :P
 - 📫 Reach me out on discord @psycho_gas
