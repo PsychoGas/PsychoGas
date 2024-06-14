@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @PsychoGas
-- 👀 I’m interested in full-stack dev / cybersec / AI and ML
-- 🌱 I’m currently <chilling>
+- 👀 I’m interested in full-stack dev / AI and ML / cybersec
+- 🌱 I’m currently just freestyling and building stuff
 - 💞️ Looking to collaborate on anything cool :P
 - 📫 Reach me out on discord @psycho_gas
 - 😄 Pronouns: he/him
